@@ -1,0 +1,50 @@
+18:00:58.592 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Clicked on Register Link
+18:00:58.602 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing Customer Details
+18:00:59.852 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message....
+18:00:59.896 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+18:01:03.041 [main] INFO  testCases.TC_002_LoginTest - *********Starting TC_002_LoginTets*********
+18:01:04.533 [main] INFO  testCases.TC_002_LoginTest - *****Finished TC_002_LoginTest******
+18:50:29.564 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\gnane\eclipse-workspace\FrameWorkDesign\Master.xml"
+18:50:29.893 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\gnane\eclipse-workspace\FrameWorkDesign\Master.xml
+
+18:50:34.268 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+18:50:34.355 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+18:50:34.928 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Clicked on Register Link
+18:50:34.930 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing Customer Details
+18:50:36.185 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message....
+18:50:36.224 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+18:50:39.560 [main] INFO  testCases.TC_002_LoginTest - *********Starting TC_002_LoginTets*********
+18:50:40.992 [main] INFO  testCases.TC_002_LoginTest - *****Finished TC_002_LoginTest******
+19:57:19.118 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\gnane\eclipse-workspace\FrameWorkDesign\CrossBrowserTesting.xml"
+19:57:19.407 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\gnane\eclipse-workspace\FrameWorkDesign\CrossBrowserTesting.xml
+
+19:57:28.549 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+19:57:28.549 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+19:57:28.671 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+19:57:28.713 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+19:59:32.724 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\gnane\eclipse-workspace\FrameWorkDesign\CrossBrowserTesting.xml"
+19:59:33.030 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\gnane\eclipse-workspace\FrameWorkDesign\CrossBrowserTesting.xml
+
+19:59:38.775 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+19:59:38.776 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+19:59:38.996 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+19:59:39.004 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+20:01:31.463 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\gnane\eclipse-workspace\FrameWorkDesign\CrossBrowserTesting.xml"
+20:01:31.748 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\gnane\eclipse-workspace\FrameWorkDesign\CrossBrowserTesting.xml
+
+20:01:38.879 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+20:01:38.881 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+20:01:39.021 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+20:01:39.028 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+20:04:39.662 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\gnane\eclipse-workspace\FrameWorkDesign\CrossBrowserTesting.xml"
+20:04:39.945 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\gnane\eclipse-workspace\FrameWorkDesign\CrossBrowserTesting.xml
+
+20:04:45.721 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+20:04:45.722 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+20:04:45.886 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+20:04:45.896 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
