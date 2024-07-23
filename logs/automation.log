@@ -48,3 +48,24 @@
 20:04:45.722 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
 20:04:45.886 [TestNG-tests-1] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
 20:04:45.896 [TestNG-tests-2] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+15:48:45.072 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\gnane\eclipse-workspace\FrameWorkDesign\Master.xml"
+15:48:45.380 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\gnane\eclipse-workspace\FrameWorkDesign\Master.xml
+
+15:48:50.436 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+15:48:50.690 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+15:48:51.041 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Clicked on Register Link
+15:48:51.043 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing Customer Details
+15:48:52.148 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message....
+15:48:52.184 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+15:48:54.307 [main] INFO  testCases.TC_002_LoginTest - *********Starting TC_002_LoginTets*********
+15:48:55.687 [main] INFO  testCases.TC_002_LoginTest - *****Finished TC_002_LoginTest******
+16:09:45.569 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\gnane\eclipse-workspace\FrameWorkDesign\Master.xml"
+16:09:50.893 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+16:09:51.232 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+16:09:51.657 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Clicked on Register Link
+16:09:51.659 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing Customer Details
+16:09:52.845 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message....
+16:09:52.879 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+16:09:55.382 [main] INFO  testCases.TC_002_LoginTest - *********Starting TC_002_LoginTets*********
+16:09:56.850 [main] INFO  testCases.TC_002_LoginTest - *****Finished TC_002_LoginTest******
