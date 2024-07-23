@@ -69,3 +69,21 @@
 16:09:52.879 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
 16:09:55.382 [main] INFO  testCases.TC_002_LoginTest - *********Starting TC_002_LoginTets*********
 16:09:56.850 [main] INFO  testCases.TC_002_LoginTest - *****Finished TC_002_LoginTest******
+16:33:30.378 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\gnane\eclipse-workspace\FrameWorkDesign\Master.xml"
+16:33:36.717 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+16:33:37.998 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+16:33:38.588 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Clicked on Register Link
+16:33:38.593 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing Customer Details
+16:33:40.566 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message....
+16:33:40.605 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+16:33:44.208 [main] INFO  testCases.TC_002_LoginTest - *********Starting TC_002_LoginTets*********
+16:33:47.244 [main] INFO  testCases.TC_002_LoginTest - *****Finished TC_002_LoginTest******
+16:38:16.569 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\gnane\eclipse-workspace\FrameWorkDesign\Master.xml"
+16:38:21.155 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Starting TC_001_AccountRegistrationTest *****
+16:38:21.896 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount Link
+16:38:22.541 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Clicked on Register Link
+16:38:22.545 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing Customer Details
+16:38:24.408 [main] INFO  testCases.TC_001_AccountRegistrationTest - Validating expected message....
+16:38:24.464 [main] INFO  testCases.TC_001_AccountRegistrationTest - ***** Finished TC_001_AccountRegistrationTest *****
+16:38:27.829 [main] INFO  testCases.TC_002_LoginTest - *********Starting TC_002_LoginTets*********
+16:38:30.220 [main] INFO  testCases.TC_002_LoginTest - *****Finished TC_002_LoginTest******
